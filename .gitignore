@@ -10,3 +10,6 @@ __pycache__/
 
 # VS Code settings
 .vscode/
+*.zip
+*.h5
+uploads/

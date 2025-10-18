@@ -1,0 +1,12 @@
+# Ignore large zip files and models
+*.zip
+*.h5
+
+# Ignore uploaded images
+uploads/
+
+# Python cache
+__pycache__/
+
+# VS Code settings
+.vscode/
